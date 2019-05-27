@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070373170330",
+    "firebase_url": "https://faqsample-3a0aa.firebaseio.com",
+    "project_id": "faqsample-3a0aa",
+    "storage_bucket": "faqsample-3a0aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070373170330:android:69474eab68908b1b",
+        "android_client_info": {
+          "package_name": "com.kottodat.faqsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070373170330-blab1q4bhdtg7ltqj5j8lbo233699ge2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kottodat.faqsample",
+            "certificate_hash": "2616c4b502a7719daab0292cfad141fa97f13ed1"
+          }
+        },
+        {
+          "client_id": "1070373170330-k64nu6o392pk3e71qnmcfhd8l697n95a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn-Lh2xTuGQs7Gpp5wMVScIzKtUJ3PlwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070373170330-k64nu6o392pk3e71qnmcfhd8l697n95a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
